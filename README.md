@@ -1,0 +1,1 @@
+This is Stone's first git project!
